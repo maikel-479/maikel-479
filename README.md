@@ -1,7 +1,5 @@
-<h1 align="center">Hey, I'm Maikel 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=120&lines=Software+Engineering+Student;Neovim+Enthusiast;Building+with+AI+Agents;Web+Dev+at+Scrimba" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=2000&color=CBA6F7&center=true&vCenter=true&multiline=true&repeat=true&width=430&height=60&lines=Hi%2C+I'm+Maikel" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,6 +19,8 @@
 - **Currently Learning:** Web Dev, AI Agents & Automation
 
 > *"I love to see systems work."*
+
+**Inspired by:** Linus Torvalds & Robert C. Martin
 
 ---
 
