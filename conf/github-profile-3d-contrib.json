@@ -1,0 +1,29 @@
+{
+  "filenameFormat": "night-rainbow",
+  "outDir": "profile-3d-contrib",
+  "greenLevel": 120,
+  "rotation": 25,
+  "viewer": {
+    "x": 120,
+    "y": 100,
+    "z": 120
+  },
+  "contribColors": [
+    "#0D1219",
+    "#162030",
+    "#00E89E",
+    "#00C8C8",
+    "#E066FF",
+    "#4169E1",
+    "#FF6B9D"
+  ],
+  "blockColors": {
+    "0": "#0D1219",
+    "1": "#162030",
+    "2": "#1E3A50",
+    "3": "#00C8C8",
+    "4": "#00E89E",
+    "5": "#33FFB8",
+    "6": "#E066FF"
+  }
+}
