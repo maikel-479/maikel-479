@@ -10,11 +10,11 @@
 
 ## About Me
 
-- **Name:** Maikel Ademola Ademuyiwa
+- **Name:** Ademola Ademuyiwa (Maikel)
 - **Student:** Software Engineering @ Lead City University (2nd Year)
 - **Location:** Nigeria
 - **Zed Theme Author:** Created Aurora Borealis and other themes
-- **OS:** Linux (Arch/Hyprland → Artix)
+- **OS:** Linux (Arch/Hyprland → Artix) 
 - **Editor:** Zed & Neovim
 - **Currently Learning:** Web Dev, AI Agents & Automation
 
