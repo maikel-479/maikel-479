@@ -27,11 +27,7 @@
 ## 3D Contribution Graph
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maikel-479/maikel-479/main/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maikel-479/maikel-479/main/profile-3d-contrib/profile-green.svg" />
-    <img alt="GitHub Contributions" src="https://raw.githubusercontent.com/maikel-479/maikel-479/main/profile-3d-contrib/profile-green.svg" />
-  </picture>
+  <img alt="GitHub Contributions" src="https://raw.githubusercontent.com/maikel-479/maikel-479/main/profile-3d-contrib/profile-customize.svg" />
 </p>
 
 ---
@@ -64,6 +60,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/maikel-479/maikel-479/blob/main/profile-3d-contrib/profile-green-animate.svg?raw=true" width="100%" />
-</p>
+
