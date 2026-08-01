@@ -13,7 +13,7 @@
 ```javascript
 const maikel = {
   role: "Student & Aspiring Fullstack Developer",
-  currentlyLearning: "Fullstack Development via Scrimba",
+  currentlyLearning: "Fullstack Web Development",
   languages: ["JavaScript", "TypeScript", "Lua", "Bash"],
   funFact: "I believe in learning by building 💪",
   motto: "Every expert was once a beginner"
@@ -21,8 +21,7 @@ const maikel = {
 ```
 
 - 🔭 I'm currently learning **Fullstack Web Development**
-- 🌱 I'm on the **Scrimba Fullstack Path** (108+ hours, 20 modules)
-- 💻 Passionate about **JavaScript/TypeScript** and scripting with **Bash/Lua**
+- 💻 Working with **JavaScript/TypeScript** and scripting with **Bash/Lua**
 - 🎯 Goal: Build complete web applications from scratch
 - 💬 Ask me about my learning journey!
 
@@ -38,7 +37,7 @@ const maikel = {
 ![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Currently Learning (Scrimba Fullstack Path)
+### Currently Learning
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -60,72 +59,11 @@ const maikel = {
 
 <div align="center">
 
-<a href="https://github.com/maikel-479">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikel-479&layout=compact&theme=radical&hide_border=true" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maikel-479&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maikel-479&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
-<div align="center">
-
-<a href="https://github.com/maikel-479">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maikel-479&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maikel-479&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-### 🎓 Scrimba Fullstack Developer Path
-
-| Detail | Info |
-|:-------|:-----|
-| **Platform** | [Scrimba](https://scrimba.com/fullstack-path-c0fullstack) |
-| **Duration** | 108.4 hours |
-| **Modules** | 20 modules |
-| **Lessons** | 1,957 lessons |
-| **Level** | Beginner to Job-Ready |
-
-### 🗺️ Path Breakdown
-
-```
-📍 Scrimba Fullstack Path — 20 Modules
-│
-├── 📗 HTML & CSS Fundamentals
-├── 📘 JavaScript Fundamentals
-├── 📙 Advanced JavaScript
-├── 📕 TypeScript
-├── ⚛️  React Fundamentals
-├── ⚛️  Advanced React
-├── 🗄️ SQL & Databases
-├── 🟢 Node.js
-├── 🟢 Express.js
-├── 🔷 Next.js
-├── 🤖 AI Engineering
-└── 🏁 Portfolio Projects
-```
-
-### 🎯 Progress Tracker
-
-| Module | Status |
-|:-------|:------:|
-| HTML & CSS | ✅ Complete |
-| JavaScript | ✅ Complete |
-| Advanced JavaScript | 🔄 In Progress |
-| TypeScript | ⏳ Upcoming |
-| React | ⏳ Upcoming |
-| Node.js / Express | ⏳ Upcoming |
-| SQL / Databases | ⏳ Upcoming |
-| Next.js | ⏳ Upcoming |
-| AI Engineering | ⏳ Upcoming |
 
 ---
 
