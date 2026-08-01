@@ -59,9 +59,7 @@ const maikel = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maikel-479&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maikel-479&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://ghstats.dev/api/card?username=maikel-479&theme=tokyonight)
 
 </div>
 
