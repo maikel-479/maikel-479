@@ -90,6 +90,4 @@ const maikel = {
 
 ### 💡 *"The only way to learn a new programming language is by writing programs in it."* — Dennis Ritchie
 
-![Visitor Count](https://komarev.com/ghpvc/?username=maikel-479&color=blueviolet&style=flat-square)
-
 </div>
